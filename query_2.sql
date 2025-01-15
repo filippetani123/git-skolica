@@ -1,0 +1,1 @@
+SELECT nam, age FROM employees;
