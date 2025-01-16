@@ -1,1 +1,1 @@
-Zadaci
+Zadaci za učenje Gita
