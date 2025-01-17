@@ -1,4 +1,4 @@
-SELECT name, age WHERE age > 30;
+SELECT name, age WHERE age > 29;
 -----------------------------------
 SELECT nam, age FROM employees;
 -----------------------------------
