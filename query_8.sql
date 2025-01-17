@@ -1,0 +1,1 @@
+SELECT e.name, d.# FROM employees e JOIN departments d;
