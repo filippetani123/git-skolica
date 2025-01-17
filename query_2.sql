@@ -1,1 +1,1 @@
-SELECT nam, age FROM employees;
+SELECT name as ime , age as starost FROM employees;
