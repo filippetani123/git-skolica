@@ -1,1 +1,1 @@
-SELECT e.name, d.department_name FROM employees e JOIN departments d;
+SELECT e.name, d.* FROM employees e JOIN departments d;
