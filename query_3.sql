@@ -1,1 +1,1 @@
-SELECT * FROM employees WHERE age => 30;
+SELECT * FROM employees WHERE age > 30;
