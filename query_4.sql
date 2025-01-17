@@ -1,1 +1,1 @@
-SELECT * FROM employees WHERE name = John;
+SELECT * FROM employees WHERE name <> John;
